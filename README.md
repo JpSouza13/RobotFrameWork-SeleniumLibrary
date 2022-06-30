@@ -1,4 +1,4 @@
-# RobotFrameWork-_SeleniumLibrary
+# RobotFrameWork_SeleniumLibrary
 Testes feitos com o RobotFramework utilizando a biblioteca Selenium.
 
 Testes feitos na pagina de Testes >> https://training-wheels-protocol.herokuapp.com
